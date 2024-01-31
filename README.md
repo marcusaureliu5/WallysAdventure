@@ -5,9 +5,8 @@ Rooms and items are procedurally generated
 
 When the player physically turns to north, south, east and west, the crank can be used to move in that direction to explore the current room
 
-Pressing B displays the pop up allowing the player to select a direction with A 
+Pressing B displays the pop up allowing the player to select a direction with A, which will move the player to a new explorable room
 
-Selecting a direction will change the current room which ther player can then explore
 
 ![image](https://github.com/marcusaureliu5/WallysAdventure/assets/50851029/20dcf670-011b-4252-96f5-758749dd2acd)
 
