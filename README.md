@@ -3,7 +3,7 @@ A text based roguelike adventure based in a rural US W@lMart, written in lua for
 
 Rooms and items are procedurally generated
 
-When the player physically turns to north, south, east and west, the crank can be used to move in that direction to explore the current room
+When the player physically turns to north, south, east, or west, the accelerometer detects this change. The crank can then be used to move in that direction to explore the current room
 
 Pressing B displays the pop up allowing the player to select a direction with A, which will move the player to a new explorable room
 
